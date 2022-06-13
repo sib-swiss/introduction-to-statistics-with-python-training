@@ -1,0 +1,21 @@
+{
+  "title": "Material for the Introduction to Statistics with Python SIB-training course",
+  "keywords": [
+    "statistics",
+    "python",
+    "course",
+    "training"
+  ],
+  "creators": [
+    {
+      "name": "Sebastien Boyer",
+      "orcid":"0000-0003-0248-2915"
+
+    },
+    {
+      "name": "Wandrille Duchemin",
+      "affiliation": "SIB Swiss Institute of Bioinformatics",
+      "orcid":"0000-0001-8854-7235"
+    }   
+  ]
+}
