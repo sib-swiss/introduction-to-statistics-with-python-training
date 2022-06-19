@@ -16,15 +16,17 @@ The course will combine lectures on statistics, short tutorials and practical ex
 ## Technical prerequisites
 
 Software to be installed PRIOR to the course: 
- 	* latest python3 distribution, preferably bundled using [conda](https://docs.continuum.io/anaconda/install/)
- 	* jupyter (https://jupyter.org/install)
+
+ * latest python3 distribution, preferably bundled using [conda](https://docs.continuum.io/anaconda/install/)
+ * jupyter (https://jupyter.org/install)
 
 Python libraries (we recommend the usage of conda for the installation):
- 	* [scipy](https://www.scipy.org/install.html) (NB: if you installed conda, then this library is already installed)
- 	* [statsmodels](https://www.statsmodels.org/stable/install.html) library
- 	* [pandas](https://pandas.pydata.org/docs/getting_started/index.html)
- 	* [seaborn](https://seaborn.pydata.org/installing.html)
- 	* [scikit-learn](https://scikit-learn.org/stable/install.html)
+
+ * [scipy](https://www.scipy.org/install.html) (NB: if you installed conda, then this library is already installed)
+ * [statsmodels](https://www.statsmodels.org/stable/install.html) library
+ * [pandas](https://pandas.pydata.org/docs/getting_started/index.html)
+ * [seaborn](https://seaborn.pydata.org/installing.html)
+ * [scikit-learn](https://scikit-learn.org/stable/install.html)
 
 
 ## Course organization
