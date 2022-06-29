@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6777843.svg)](https://doi.org/10.5281/zenodo.6777843)
+
+
 # First step in statistics for life science - with python
 
 
@@ -43,3 +46,8 @@ The course does not require any particular expertise with jupyter notebooks to b
 
 Solutions to each practical can be found in the `solutions/` folder and should be loadable directly in the jupyter notebook themselves.
 
+## Citation
+
+Please cite as:
+
+Wandrille Duchemin, & Sebastien Boyer. (2022, June 29). Material for the Introduction to Statistics with Python SIB-training course. Zenodo. [https://doi.org/10.5281/zenodo.6777843](https://doi.org/10.5281/zenodo.6777843)
