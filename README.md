@@ -1,7 +1,7 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6777843.svg)](https://doi.org/10.5281/zenodo.6777843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8070049.svg)](https://doi.org/10.5281/zenodo.8070049)
 
 
-# First step in statistics for life science - with python
+# First steps in statistics for life science - with python
 
 
 Statistics are an integral aspect of scientific research, particularly for the life sciences which rely heavily on quantitative methodologies. 
@@ -49,5 +49,4 @@ Solutions to each practical can be found in the `solutions/` folder and should b
 ## Citation
 
 Please cite as:
-
-Wandrille Duchemin, & Sebastien Boyer. (2022, June 29). Material for the Introduction to Statistics with Python SIB-training course. Zenodo. [https://doi.org/10.5281/zenodo.6777843](https://doi.org/10.5281/zenodo.6777843)
+Wandrille Duchemin. (2023, June 22). Material for the Introduction to Statistics with Python SIB-training course. Zenodo. https://doi.org/10.5281/zenodo.8070049
